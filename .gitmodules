@@ -19,3 +19,6 @@
 [submodule "extensions/debugdevkit"]
 	path = extensions/debugdevkit
 	url = git://github.com/symphonycms/debugdevkit.git
+[submodule "extensions/color_chooser_field"]
+	path = extensions/color_chooser_field
+	url = git://github.com/MrBlank/color_chooser_field.git
