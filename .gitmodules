@@ -22,3 +22,6 @@
 [submodule "extensions/color_chooser_field"]
 	path = extensions/color_chooser_field
 	url = git://github.com/MrBlank/color_chooser_field.git
+[submodule "workspace"]
+	path = workspace
+	url = git@src.domain7.com:sym-cumulus-workspace.git
