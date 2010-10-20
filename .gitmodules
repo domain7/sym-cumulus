@@ -24,4 +24,4 @@
 	url = git://github.com/MrBlank/color_chooser_field.git
 [submodule "workspace"]
 	path = workspace
-	url = git@src.domain7.com:sym-cumulus-workspace.git
+	url = git://github.com/domain7/sym-cumulus-workspace.git
